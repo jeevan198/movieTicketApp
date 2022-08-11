@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\conestoga\bin\Debug\netcoreapp3.1\conestoga.exe
+C:\Users\Dell\Desktop\conestoga\bin\Debug\netcoreapp3.1\conestoga.deps.json
+C:\Users\Dell\Desktop\conestoga\bin\Debug\netcoreapp3.1\conestoga.runtimeconfig.json
+C:\Users\Dell\Desktop\conestoga\bin\Debug\netcoreapp3.1\conestoga.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\conestoga\bin\Debug\netcoreapp3.1\conestoga.dll
+C:\Users\Dell\Desktop\conestoga\bin\Debug\netcoreapp3.1\conestoga.pdb
+C:\Users\Dell\Desktop\conestoga\obj\Debug\netcoreapp3.1\conestoga.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\conestoga\obj\Debug\netcoreapp3.1\conestoga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\conestoga\obj\Debug\netcoreapp3.1\conestoga.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\conestoga\obj\Debug\netcoreapp3.1\conestoga.AssemblyInfo.cs
+C:\Users\Dell\Desktop\conestoga\obj\Debug\netcoreapp3.1\conestoga.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\conestoga\obj\Debug\netcoreapp3.1\conestoga.dll
+C:\Users\Dell\Desktop\conestoga\obj\Debug\netcoreapp3.1\conestoga.pdb
+C:\Users\Dell\Desktop\conestoga\obj\Debug\netcoreapp3.1\conestoga.genruntimeconfig.cache

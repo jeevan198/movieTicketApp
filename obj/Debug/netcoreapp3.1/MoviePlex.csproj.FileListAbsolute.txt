@@ -1,0 +1,55 @@
+C:\Users\Dell\Desktop\conestoga\bin\Debug\netcoreapp3.1\MoviePlex.exe
+C:\Users\Dell\Desktop\conestoga\bin\Debug\netcoreapp3.1\MoviePlex.deps.json
+C:\Users\Dell\Desktop\conestoga\bin\Debug\netcoreapp3.1\MoviePlex.runtimeconfig.json
+C:\Users\Dell\Desktop\conestoga\bin\Debug\netcoreapp3.1\MoviePlex.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\conestoga\bin\Debug\netcoreapp3.1\MoviePlex.dll
+C:\Users\Dell\Desktop\conestoga\bin\Debug\netcoreapp3.1\MoviePlex.pdb
+C:\Users\Dell\Desktop\conestoga\obj\Debug\netcoreapp3.1\MoviePlex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\conestoga\obj\Debug\netcoreapp3.1\MoviePlex.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\conestoga\obj\Debug\netcoreapp3.1\MoviePlex.AssemblyInfo.cs
+C:\Users\Dell\Desktop\conestoga\obj\Debug\netcoreapp3.1\MoviePlex.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\conestoga\obj\Debug\netcoreapp3.1\MoviePlex.dll
+C:\Users\Dell\Desktop\conestoga\obj\Debug\netcoreapp3.1\MoviePlex.pdb
+C:\Users\Dell\Desktop\conestoga\obj\Debug\netcoreapp3.1\MoviePlex.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.exe
+C:\Users\Dell\Desktop\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.deps.json
+C:\Users\Dell\Desktop\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.runtimeconfig.json
+C:\Users\Dell\Desktop\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.dll
+C:\Users\Dell\Desktop\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.pdb
+C:\Users\Dell\Desktop\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.dll
+C:\Users\Dell\Desktop\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.pdb
+C:\Users\Dell\Desktop\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.genruntimeconfig.cache
+C:\Users\jeeva\Desktop\MoviePlex\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.exe
+C:\Users\jeeva\Desktop\MoviePlex\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.deps.json
+C:\Users\jeeva\Desktop\MoviePlex\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.runtimeconfig.json
+C:\Users\jeeva\Desktop\MoviePlex\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.runtimeconfig.dev.json
+C:\Users\jeeva\Desktop\MoviePlex\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.dll
+C:\Users\jeeva\Desktop\MoviePlex\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.pdb
+C:\Users\jeeva\Desktop\MoviePlex\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.csproj.AssemblyReference.cache
+C:\Users\jeeva\Desktop\MoviePlex\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeeva\Desktop\MoviePlex\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.AssemblyInfoInputs.cache
+C:\Users\jeeva\Desktop\MoviePlex\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.AssemblyInfo.cs
+C:\Users\jeeva\Desktop\MoviePlex\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.csproj.CoreCompileInputs.cache
+C:\Users\jeeva\Desktop\MoviePlex\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.dll
+C:\Users\jeeva\Desktop\MoviePlex\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.pdb
+C:\Users\jeeva\Desktop\MoviePlex\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.genruntimeconfig.cache
+C:\Users\vatsa\Desktop\studyz\can clg\.NET\final project\MoviePlex\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.exe
+C:\Users\vatsa\Desktop\studyz\can clg\.NET\final project\MoviePlex\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.deps.json
+C:\Users\vatsa\Desktop\studyz\can clg\.NET\final project\MoviePlex\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.runtimeconfig.json
+C:\Users\vatsa\Desktop\studyz\can clg\.NET\final project\MoviePlex\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.runtimeconfig.dev.json
+C:\Users\vatsa\Desktop\studyz\can clg\.NET\final project\MoviePlex\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.dll
+C:\Users\vatsa\Desktop\studyz\can clg\.NET\final project\MoviePlex\MoviePlex\bin\Debug\netcoreapp3.1\MoviePlex.pdb
+C:\Users\vatsa\Desktop\studyz\can clg\.NET\final project\MoviePlex\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.csproj.AssemblyReference.cache
+C:\Users\vatsa\Desktop\studyz\can clg\.NET\final project\MoviePlex\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsa\Desktop\studyz\can clg\.NET\final project\MoviePlex\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.AssemblyInfoInputs.cache
+C:\Users\vatsa\Desktop\studyz\can clg\.NET\final project\MoviePlex\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.AssemblyInfo.cs
+C:\Users\vatsa\Desktop\studyz\can clg\.NET\final project\MoviePlex\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.csproj.CoreCompileInputs.cache
+C:\Users\vatsa\Desktop\studyz\can clg\.NET\final project\MoviePlex\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.dll
+C:\Users\vatsa\Desktop\studyz\can clg\.NET\final project\MoviePlex\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.pdb
+C:\Users\vatsa\Desktop\studyz\can clg\.NET\final project\MoviePlex\MoviePlex\obj\Debug\netcoreapp3.1\MoviePlex.genruntimeconfig.cache
